@@ -1,0 +1,7 @@
+[
+  { "region": "North", "latitude": 28.6139, "longitude": 77.2090 },
+  { "region": "South", "latitude": 12.9716, "longitude": 77.5946 },
+  { "region": "East", "latitude": 22.5726, "longitude": 88.3639 },
+  { "region": "West", "latitude": 19.0760, "longitude": 72.8777 },
+  { "region": "Central", "latitude": 23.2599, "longitude": 77.4126 }
+]
